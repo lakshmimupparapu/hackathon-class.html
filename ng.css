@@ -1,0 +1,21 @@
+.img{
+    background-image: url("https://img.freepik.com/free-photo/foggy-morning-lake-with-boat-foreground-mountains-background_1057-36254.jpg?t=st=1705137099~exp=1705140699~hmac=261b6d22e6c25df78957934c92d2fae308f6224da06f04719b999d74a0230022&w=996");
+    background-size: cover;
+    height: 100vh;
+}
+
+.bg{
+    height: 70px;
+    width: 500px;
+    text-align: center;
+    margin:auto;
+    margin-top: 20px;
+}
+.card{
+    text-align: left;
+    background-color:bisque;
+}
+.img1{
+    width: 30vw;
+    height: 50vh;
+}

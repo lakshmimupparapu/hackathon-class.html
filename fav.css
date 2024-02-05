@@ -1,0 +1,36 @@
+.bg{
+    background-image: url(https://img.freepik.com/free-photo/panoramic-view-big-ben-london-sunset-uk_268835-1401.jpg?w=1060&t=st=1704796255~exp=1704796855~hmac=01706f83c4a9cf929011442117e0adfdddc0899f207546d209b68af6a22e7e8a);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+}
+.heading{
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Robot";
+}
+.card-container{
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+}
+.tajmahal{
+    color: #0f0e46;
+    font-weight: bold;
+    font-family: "Robot";
+}
+.p{
+    font-family: "Roboto";
+    color: #6c6b70;
+}
+.size-tajmahal-image{
+    height: 200px;
+    width: 200px;
+    border-radius: 8px;
+}
+.mg{
+    margin-right: 30px;
+    padding: 30px;
+}

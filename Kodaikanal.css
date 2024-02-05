@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.rec-card {
+    width: 450px;
+    margin: 30px;
+}
+
+.gallery {
+    display: flex;
+    margin-top: 10px;
+    height: 80px;
+    width: 80px;
+}
+
+.img {
+    margin-left: 30px;
+}
+
+.v {
+    height: 120px;
+    width: 225px;
+    display: flex;
+}
+
+.video {
+    margin-left: 50px;
+}
